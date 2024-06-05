@@ -1,0 +1,22 @@
+Calcio,T
+Tennis,F
+Basket,F
+Pallavolo,F
+Rugby League,F
+Rugby,T
+Pallanuoto,T
+Football Americano,F
+Football Australiano,F
+Badminton,F
+Baseball,F
+Beach Volley,F
+Boxe,T
+Cricket,F
+Freccette,F
+Esport,F
+Calcetto,T
+Pallamano,T
+Hockey,T
+MMA,F
+Pesapallo,F
+Ping Pong,F
