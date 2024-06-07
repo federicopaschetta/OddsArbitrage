@@ -2,21 +2,22 @@ Calcio,T
 Tennis,F
 Basket,F
 Pallavolo,F
-Rugby League,F
+Rugby league,F
 Rugby,T
 Pallanuoto,T
-Football Americano,F
-Football Australiano,F
+Football americano,F
+Football australiano,F
 Badminton,F
 Baseball,F
 Beach Volley,F
-Boxe,T
+Boxing,T
 Cricket,F
-Freccette,F
-Esport,F
-Calcetto,T
-Pallamano,T
+Darts,F
+Esports,F
+Futsal,T
+Handball,T
 Hockey,T
-MMA,F
+Mma,F
 Pesapallo,F
-Ping Pong,F
+Snooker,F
+Table-tennis,F
