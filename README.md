@@ -1,4 +1,4 @@
-# Odds Arbitrage Matches Finding
+# Odds Arbitrage Matches Finder
 
 This project is designed to scrape data from the web and process it for further analysis to evaluate the presence of eventual games on which doing the arbitrage. The project includes a Python script (`scraping.py`) and a Jupyter notebook (`scraping.ipynb`) that demonstrate the scraping process and subsequent data handling.
 
